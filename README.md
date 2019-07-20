@@ -3,8 +3,8 @@
 # arduino-plus-scratch3
 Scratch 3 extensions + Arduino board (custom firmware)
 
-Follow instructions to install scratch-gui
-https://github.com/LLK/scratch-gui
+Follow instructions to install scratch-gui (forked from original).
+https://github.com/cotestatnt/scratch-gui
 
 In order to use an Arduino Uno with Scratch 3.0 we need to access serial port. 
 It's not possible directly from Scratch, so we can use node.js and websockets: Scratch extension will receive data from websocket.
