@@ -13,7 +13,7 @@ npm install serialport
 npm install websocket
 npm install crc-full
 
-Arduino Uno is programmed with a custom firmware (based on firmata). The purpose for this project is educational so small students can control 2 servos, 4 buttons, several addressable RGB leds, 1 pot, 1 ultrasonic sensor, 1 LDR and play some mp3 with a DFPlayer mini.
+Arduino Uno is programmed with a custom firmware. The purpose for this project is educational so small students can control 2 servos, 4 buttons, several addressable RGB leds, 1 pot, 1 ultrasonic sensor, 1 LDR and play some mp3 with a DFPlayer mini.
 I'm sorry, but only Italian labels are available at the moment. You can translate or add yours following the schema.
 
 
